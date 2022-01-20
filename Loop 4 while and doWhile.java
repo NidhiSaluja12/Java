@@ -1,6 +1,6 @@
 package class_3;
 
-public class loop4_doWhile3 {
+public class loop4_doWhile4 {
 public static void main(String args[]) {
 		
 		int n = 15;
