@@ -1,0 +1,24 @@
+package class_3;
+
+public class loop5 {
+public static void main(String args[]) {
+	
+	int i =1;
+	int sum = 0;
+	long prod = 1;
+	do {
+		
+		sum += i;
+		prod *= i;
+		i++;
+//		System.out.println(sum);
+//		System.out.println("--------------");
+//		System.out.println(prod);
+		
+	}while (i <= 10);
+	System.out.println(sum);
+	System.out.println("--------------");
+	System.out.println(prod);
+}
+
+}
