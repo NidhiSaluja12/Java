@@ -1,5 +1,4 @@
 
-
 public class loops3_doWhile3 {
 	
 	public static void main(String args[]) {
