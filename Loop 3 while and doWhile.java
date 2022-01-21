@@ -1,4 +1,4 @@
-package class_3;
+
 
 public class loops3_doWhile3 {
 	
