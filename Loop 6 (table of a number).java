@@ -28,4 +28,4 @@ public class loop6_table {
 
 }
 
-//max/min ; user se number 
+
