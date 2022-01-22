@@ -21,8 +21,7 @@ public class loop6_table {
 		do {
 			System.out.println(n*i);
 			i ++;
-		}while(i<=10);
-		
+		}while(i<=10);		
 		
 	}
 
