@@ -1,4 +1,4 @@
-package class_3;
+
 import java.util.Scanner;
 
 public class loop7_max_min {
