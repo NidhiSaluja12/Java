@@ -15,7 +15,5 @@ public class loop2_doWhile {
 		    //n-- ;
 			n -= 2;
 			
-		}
-			
-		
+		}			
 	}
