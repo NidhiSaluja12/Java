@@ -1,4 +1,4 @@
-public class loop2_doWhile {
+public class loop_doWhile {
 	public static void main(String args[]) {
 		
 	int n = 1;
