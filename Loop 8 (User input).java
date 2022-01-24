@@ -21,6 +21,5 @@ public class loop7_userInput {
 		System.out.println("Your have entered "+count+" values");	
 		
 	}
-	
 
 }
