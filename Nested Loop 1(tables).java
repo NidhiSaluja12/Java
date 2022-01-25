@@ -1,4 +1,3 @@
-
 public class nestedLoop1 {
 	
 	public static void main(String args[]) {
