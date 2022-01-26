@@ -1,5 +1,3 @@
-
-
 public class nestedLoop2_doWhile {
 public static void main(String args[]) {
 	int m,n;
