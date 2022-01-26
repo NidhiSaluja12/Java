@@ -14,9 +14,12 @@ Output:
 12345678910
 
 */
-
+import java.util.Scanner;
 public class nestedLoop2_doWhile {
 public static void main(String args[]) {
+	Scanner sc = new Scanner(System.in);
+	System.out.println("Enter the number of lines: ");
+	int n = sc.nextInt();
 	int m,n;
 	m = 1;
 	do {
