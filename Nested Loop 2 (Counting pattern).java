@@ -1,7 +1,9 @@
 /*
 
-Output:
+Input: 
+10
 
+Output:
 1
 12
 123
