@@ -1,3 +1,20 @@
+/*
+
+Output:
+
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678910
+
+*/
+
 public class nestedLoop2_doWhile {
 public static void main(String args[]) {
 	int m,n;
