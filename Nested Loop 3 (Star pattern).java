@@ -12,8 +12,8 @@ Output:
 *********
 **********
 
-
 */
+
 import java.util.Scanner;
 public class nestedLoop3_doWhile2 {
 	
