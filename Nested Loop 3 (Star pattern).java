@@ -1,4 +1,16 @@
 /*
+Enter the number of lines: 10
+Output: 
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
 
 
 */
@@ -6,7 +18,11 @@ import java.util.Scanner;
 public class nestedLoop3_doWhile2 {
 	
 	public static void main(String args[]) {
+		Scanner sc = new Scanner(System.in);
 		int m,n,l;
+		
+		System.out.println("Enter the number of lines: ")
+		int l = sc.nextInt();
 		
 		
 		m = 1;
@@ -22,7 +38,7 @@ public class nestedLoop3_doWhile2 {
 			m++;
 			
 			
-		}while(m<=10);
+		}while(m<=l);
 		
 	}
 
