@@ -1,7 +1,14 @@
+/*
+
+
+*/
+import java.util.Scanner;
 public class nestedLoop3_doWhile2 {
 	
 	public static void main(String args[]) {
-		int m,n;
+		int m,n,l;
+		
+		
 		m = 1;
 		do {
 			n = 1;
