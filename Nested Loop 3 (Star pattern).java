@@ -1,4 +1,5 @@
 public class nestedLoop3_doWhile2 {
+	
 	public static void main(String args[]) {
 		int m,n;
 		m = 1;
@@ -9,6 +10,7 @@ public class nestedLoop3_doWhile2 {
 				n ++;
 				
 			}while (n <= m);
+			
 			System.out.println();
 			m++;
 			
