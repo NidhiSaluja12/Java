@@ -8,5 +8,4 @@ public class ternary_operator {
 		System.out.println(n+" is "+ans);
 		
 	}
-
 }
