@@ -1,4 +1,4 @@
-package class_I;
+package
 
 public class ternary_operator {
 	
