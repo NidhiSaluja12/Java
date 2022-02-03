@@ -1,4 +1,4 @@
-package class_4;
+
 import java.util.Scanner;
 
 public class triangle_pattern1 {
