@@ -8,7 +8,9 @@ public class triangle_pattern1 {
 		int c=1,r,n;
 		System.out.println("Number of lines: ");
 		n = sc.nextInt();
+		
 		// using while
+		
 //		while(c<=n) {
 //			
 //			r=c;
