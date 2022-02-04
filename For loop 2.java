@@ -1,4 +1,4 @@
-package class_5;
+
 import java.util.Scanner;
 
 public class forLoop2 {
