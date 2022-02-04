@@ -7,6 +7,7 @@ public class forLoop2 {
 	System.out.println("Enter the number: ");
 	int n=sc.nextInt();
 	int f = 1;
+		
 //	for (int i=1; i<=n; i++) {
 //		
 //		f = f*i;
