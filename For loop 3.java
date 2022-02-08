@@ -1,4 +1,4 @@
-package class_5;
+package
 
 public class forLoop3_nested {
 	public static void main(String args[]) {
