@@ -1,4 +1,4 @@
-package class_5;
+package
 import java.util.Scanner;
 
 public class forloop4_trianglePattern {
