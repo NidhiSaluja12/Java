@@ -1,4 +1,4 @@
-package class_6;
+package
 import java.util.Scanner;
 
 public class array1 {
