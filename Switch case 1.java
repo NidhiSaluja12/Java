@@ -1,4 +1,4 @@
-package class_2;
+package clas
 import java.util.*;
 
 public class switch_case {
