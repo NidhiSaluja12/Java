@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class loop7_userInput {
+public class loop8_userInput {
 	
 	public static void main(String args[]) {
 		
