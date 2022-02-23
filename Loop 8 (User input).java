@@ -25,5 +25,4 @@ public class loop8_userInput {
 		System.out.println("Your have entered "+count+" values");	
 		
 	}
-
 }
