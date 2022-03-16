@@ -22,4 +22,5 @@ public static void main(String args[]) {
 		
 		System.out.println("Out of the loop because n is already greater than 10");
 	}
+
 }
