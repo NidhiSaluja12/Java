@@ -24,6 +24,5 @@ public class forLoop1 {
 			System.out.println(i+" "+j+" "+k);
 		}
 
-
 	}
 }
