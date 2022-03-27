@@ -30,6 +30,7 @@ public class triangle_pattern1 {
 //				c++;
 //		}	
 		
+
 //		using do while
 		
 		 do{
