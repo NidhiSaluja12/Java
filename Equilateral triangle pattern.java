@@ -28,8 +28,7 @@ public class triangle_pattern1 {
 //			
 //			System.out.println();
 //				c++;
-//		}
-		
+//		}	
 		
 //		using do while
 		
